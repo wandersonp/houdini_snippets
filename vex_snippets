@@ -1,1 +1,9 @@
+#include <voplib.h>
+
+float vop_fbmNoiseFF(float pos; float rough; int maxoctaves; string noisetype)
+float vop_fbmNoiseFV(vector pos; float rough; int maxoctaves; string noisetype)
+float vop_fbmNoiseFP(vector4 pos; float rough; int maxoctaves; string noisetype)
+vector vop_fbmNoiseVF(float pos; float rough; int maxoctaves; string noisetype)
+vector vop_fbmNoiseVV(vector pos; float rough; int maxoctaves; string noisetype)
+vector vop_fbmNoiseVP(vector4 pos; float rough; int maxoctaves; string noisetype)
 
