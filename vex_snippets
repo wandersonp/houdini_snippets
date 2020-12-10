@@ -1,3 +1,4 @@
+//-----------------------------------------------------------------------------------------------------------
 #include <voplib.h>
 
 float vop_fbmNoiseFF(float pos; float rough; int maxoctaves; string noisetype)
