@@ -1,1 +1,8 @@
+Snippets
 https://yaky.me/vex
+
+Noise in VEX
+https://mrkunz.com/blog/03-04-2017_Using-noise-in-VEX.html
+
+VEX Variables
+https://mrkunz.com/blog/08_22_2018_VEX_Wrangle_Cheat_Sheet.html
